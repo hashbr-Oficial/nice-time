@@ -1,0 +1,22 @@
+{
+    "name": "offboard/Make-Nice-Time",
+    "type": "library",
+    "description": "Easy make nicetime using php.",
+    "keywords": ["create nice timedate", "php beautiful nicetime"],
+    "homepage": "http://github.com/offboard/Make-Nice-Time",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Ribeiro",
+            "email": "brunowribeiroo@facebook.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "NiceDate.php"
+        ]
+    }
+}
