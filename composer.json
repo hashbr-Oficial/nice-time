@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Easy make nicetime using php.",
     "keywords": ["create nice timedate", "php beautiful nicetime"],
-    "homepage": "http://github.com/brunoribeiro-lab/ice-time",
+    "homepage": "http://github.com/brunoribeiro-lab/nice-time",
     "license": "MIT",
     "authors": [
         {
