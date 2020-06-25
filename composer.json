@@ -1,5 +1,5 @@
 {
-    "name": "offboard/Make-Nice-Time",
+    "name": "brunoribeiro-lab/nice-time",
     "type": "library",
     "description": "Easy make nicetime using php.",
     "keywords": ["create nice timedate", "php beautiful nicetime"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Bruno Ribeiro",
-            "email": "brunowribeiroo@facebook.com"
+            "email": "bruno.espertinho@gmail.com"
         }
     ],
     "require": {
