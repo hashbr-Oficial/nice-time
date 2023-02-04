@@ -45,10 +45,10 @@ themselves. To create libraries/packages please read the
     ``` json
     {
         "repositories": [
-            {"type": "git", "url": "https://github.com/brunoribeiro-lab/nice-time"}
+            {"type": "git", "url": "https://github.com/hashbr-Oficial/nice-time"}
         ], 
         "require": {  
-            "brunoribeiro-lab/nice-time": "dev-master"
+            "hashbr-Oficial/nice-time": "dev-master"
         }
     }
     ```

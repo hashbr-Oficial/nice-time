@@ -1,14 +1,14 @@
 {
-    "name": "brunoribeiro-lab/nice-time",
+    "name": "hashbr-Oficial/nice-time",
     "type": "library",
     "description": "Easy make nicetime using php.",
     "keywords": ["create nice timedate", "php beautiful nicetime"],
-    "homepage": "http://github.com/brunoribeiro-lab/nice-time",
+    "homepage": "http://github.com/hashbr-Oficial/nice-time",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bruno Ribeiro",
-            "email": "bruno.espertinho@gmail.com"
+            "name": "HashBR",
+            "email": "contato@hashbr.com"
         }
     ],
     "require": {
